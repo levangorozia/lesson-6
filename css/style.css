@@ -28,6 +28,7 @@
 	vertical-align: bottom;
 	color: #303134;
 	margin-top: 37px;
+
 }
 
 .li-list-1 {
@@ -35,11 +36,8 @@
 	font-size: 15.74px;
 	margin-right: 49px;
 	color: #303134;
-
 	font-family: 'Raleway';
 	
-	
-	font-weight: SemiBold;
 }
 .li-list-2{
 	display: inline-block;
@@ -47,27 +45,19 @@
 	margin-right: 49px;
 	font-family: 'Raleway';
 	color: #303134;
-	font-weight: SemiBold;
 }
 .li-list-3{
 	display: inline-block;
 	font-size: 15.74px;
 	margin-right: 49px;
-
 	font-family: 'Raleway';
-	
 	color: #303134;
-	font-weight: SemiBold;
 }
 .li-list-4{
 	display: inline-block;
 	font-size: 15.74px;
-
 	font-family: 'Raleway';
-	 
 	color: #303134;
-	
-	font-weight: SemiBold;
 }
 
 
@@ -121,19 +111,16 @@
 	width: 79px;
 	margin-bottom: 6.2px;
 	font-size: 16px;
-	font-weight: SemiBold;
 }
 
 .satauri-OurHotServices{
 	width: 206px;
 	margin-bottom: 40.1px;
 	font-size: 26px;
-	font-weight: SemiBold;
 }
 .lorem-ipsum1{
 	width: 240.99px;
 	font-size: 16px;
-	font-weight: medium;
 }
 
 .div-block1{
@@ -146,17 +133,18 @@
 }
 
 .div-flight{
-	position: relative;
+	/*position: relative;*/
 	width: 268.97px;
 }
 
 .satauri-flight{
 	position: absolute;
-	top: 30%;
-	right: 50%;
+	width: 150px;
+	top: 7%;
+	left: 30%;
 	font-size: 18px;
 	font-weight: Bold;
-	transform: translate(-50%, 30%);
+	transform: translate(-7%,30%);
 
 }
 .div-block2{
@@ -166,7 +154,11 @@
 	vertical-align: top;
 	margin-bottom: 21.6px;
 	margin-right: 31.9px;
+	position: relative;
+}
 
+.fly-image{
+	margin-bottom: 52.2px;
 }
 .div-block3{
 	display: inline-block;
@@ -176,6 +168,15 @@
 	margin-bottom: 21.6px;
 	margin-right: 30.9px;
 }
+
+.div-image2{
+	margin-bottom: 22.4px;
+}
+
+.hotel{
+	margin-bottom: 8.8px;
+	font-weight: bold;
+}
 .div-block4{
 	display: inline-block;
 	width: 270.06px;
@@ -183,8 +184,17 @@
 	vertical-align: top;
 	margin-bottom: 21.6px;
 	margin-right: 93.9px;
-
 }
+
+.imgfamily{
+	margin-bottom: 22.4px;
+}
+
+.family{
+	margin-bottom: 8.8px;
+	font-weight: bold;
+}
+
 .div-block5{
 	display: inline-block;
 	width: 269.04px;
@@ -194,6 +204,11 @@
 	margin-right: 31.9px;
 	margin-bottom: 93px;
 }
+
+.cruise-img{
+	margin-bottom: 52.1px;
+}
+
 .div-block6{
 	display: inline-block;
 	width: 269.04px;
@@ -202,10 +217,27 @@
 	margin-right: 30.9px;
 	margin-bottom: 93px;
 }
+
+.img-camp{
+	margin-bottom: 22.3px;
+}
+
+.satauri-fire{
+	margin-bottom: 8.8px;
+	font-weight: bold;
+}
+
 .div-block7{
 	display: inline-block;
 	width: 270.04px;
 	height: 326.97px;
 	vertical-align: top;
 	margin-bottom: 93px;
+}
+.friends-img{
+	margin-bottom: 22.3px;
+}
+.satauri-corporate{
+	margin-bottom: 8.8px;
+	font-weight: bold;
 }
